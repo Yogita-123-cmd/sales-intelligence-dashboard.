@@ -55,7 +55,3 @@ The dashboard helps answer questions such as:
 
 ## 📷 Dashboard Preview
 
-Add a screenshot of your dashboard here:
-
-![Sales Intelligence Dashboard](screenshot.png)
-
